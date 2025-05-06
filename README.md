@@ -16,3 +16,8 @@ This project is a pipeline-based machine learning system that streams stock mark
 
 ## 🗂️ Project Structure
 
+To get this to work enter code below to start a virtual environment.
+
+source venv/bin/activate
+
+then run Python3 main.py. 
